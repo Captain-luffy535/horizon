@@ -1,2 +1,2 @@
 # horizon
-Minecraft 26.3 but in rust
+Minecraft 26.3 but in rust (go to tags)
